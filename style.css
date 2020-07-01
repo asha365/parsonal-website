@@ -1,0 +1,111 @@
+body{
+    font-family: 'poppins',sans-serif;
+}
+
+.hello{
+    color: #202428;
+
+}
+
+.jack{
+    color: #EC4C7A;
+    font-size: 35px;
+}
+
+.about{
+    color: #707070;
+}
+
+.top{
+    padding: 28%;
+}
+
+.top2{
+    padding-top: 28%;
+}
+.button{
+        text-decoration: none;
+        padding: 5px 10px 5px;
+        border-radius: 5px;
+        font-weight: bold;
+        background-color: #EC4C7A;
+        color: white;
+       
+        width: 3%;
+        
+    
+}
+
+.biography{
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    width: 40%;
+    
+}
+
+.biography img{
+    width: 100%;
+    
+   
+}
+
+.Latest{
+    color: #202428;
+    text-align: center;
+}
+
+.work_image {
+    margin-left: 8%;
+    height: 300px;
+}
+
+.work_image img{
+    width: 30%;
+    height: 220px;
+    float: left;
+    
+}
+
+.designation{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.lorem{
+    margin-top: 35px;
+}
+
+.client{
+    color: #202428;
+}
+
+.brucy{
+    color: #202428;
+}
+.CEO{
+    color: #333333;
+}
+
+.gmail{
+    height: 150px;
+    width: 60%;
+    border-radius: 10px;
+    color: white;
+    background-color: #EC4C7A;
+    text-align: center;
+    padding-top: 4%;
+    margin-top: 7%;
+    margin-left: 20%;
+    
+
+}
+
+.footer{
+    height: 50px;
+    margin-top: 10%;
+    text-align: center;
+    color: #707070;
+
+}
+
